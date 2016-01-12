@@ -23,6 +23,11 @@ import android.view.WindowManager;
 import java.io.File;
 
 
+/**
+ * 嘿嘿
+ * @author zhuyouyong
+ *
+ */
 public class BasicGLSurfaceViewActivity extends Activity {
 
     private BasicGLSurfaceView mView;
